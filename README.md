@@ -46,7 +46,7 @@ You must also have:
 2. Run the experiment:
 
 ```bash
-python rca_automl_comparison_v_0p1.py
+python rca_automl_comparison_cleaned.py
 ```
 
 3. JSON outputs will be saved per run and per target (CS or FS) under folders like `./json_automl_cs/`.
